@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726558881290",
+    "project_id": "kosaku-a0d36",
+    "storage_bucket": "kosaku-a0d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726558881290:android:6e4062ee2ad1284fa711f3",
+        "android_client_info": {
+          "package_name": "com.kosaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726558881290-48ile94osjnm28l0scpbqod0sd0nqgfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosaku",
+            "certificate_hash": "4fe530b209905451b2b3d9a9811fcfc888e5ad92"
+          }
+        },
+        {
+          "client_id": "726558881290-pvhpjfl7cm1kqjcok528i7m3jb8i4d5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1HB93qqg6e82jBcUFTSJzwhrEWolRyNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726558881290-pvhpjfl7cm1kqjcok528i7m3jb8i4d5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
