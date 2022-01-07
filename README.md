@@ -4,5 +4,11 @@ Aplikasi sederhana tentang pembelajaran kosakata dasar bahasa Inggris. Aplikasi 
 ## Desain
 [Figma](https://www.figma.com/file/TEcdLQAqZCdNi1pzbq4tKi/Kosaku?node-id=0%3A1)
 
-## Attribution
+## Setup
+```sh
+yarn upgrade
+yarn install
+```
+
+## Assets
 [Image-Illustration by Storyset](https://storyset.com/)
