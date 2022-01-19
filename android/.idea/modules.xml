@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kosaku.iml" filepath="$PROJECT_DIR$/.idea/modules/Kosaku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kosaku.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kosaku.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-21389373/Kosaku.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-21389373/Kosaku.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1425225680/Kosaku.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1425225680/Kosaku.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-460187334/Kosaku.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-460187334/Kosaku.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520907574/Kosaku.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/520907574/Kosaku.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/507786958/Kosaku.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/507786958/Kosaku.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/553564182/Kosaku.react-native-sound.iml" filepath="$PROJECT_DIR$/.idea/modules/553564182/Kosaku.react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2022765894/Kosaku.react-native-tts.iml" filepath="$PROJECT_DIR$/.idea/modules/-2022765894/Kosaku.react-native-tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-235570967/Kosaku.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-235570967/Kosaku.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

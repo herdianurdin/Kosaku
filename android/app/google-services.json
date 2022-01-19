@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "726558881290-fs3pkf6vreshsrdla63ivgca43d4aem7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosaku",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
           "client_id": "726558881290-pvhpjfl7cm1kqjcok528i7m3jb8i4d5b.apps.googleusercontent.com",
           "client_type": 3
         }

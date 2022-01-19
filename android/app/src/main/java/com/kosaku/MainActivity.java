@@ -1,8 +1,7 @@
 package com.kosaku;
 
-import com.facebook.react.ReactActivity;
 import android.os.Bundle;
-import android.view.Window;
+import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {
   @Override
