@@ -17,3 +17,6 @@ yarn install
 
 ## Assets
 [Image-Illustration by Storyset](https://storyset.com/)
+
+## Screenshot
+![Kosaku](kosaku.png)
