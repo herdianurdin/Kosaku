@@ -3,6 +3,8 @@
 ![Screenshot](screenshot.webp)
 Applications about learning basic English vocabulary. The main feature of this app is the illustration of vocabulary and text-to-speech.
 
+The illustration image is from the [storyset](https://storyset.com/).
+
 ### JSON Firestore Structure
 
 ```JSON
