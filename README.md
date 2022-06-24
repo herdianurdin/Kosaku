@@ -1,22 +1,48 @@
-# Kosaku
-Aplikasi sederhana tentang pembelajaran kosakata dasar bahasa Inggris. Aplikasi ini terdiri dari Quiz dan Kamus Mini. Fitur utama dari aplikasi ini adalah gambar ilustrasi dari setiap kata dan Text-To-Speech.
+## About Project
 
-[Demo Video](https://drive.google.com/file/d/1h6bVyDzywu6k2_v8cu-asRrx04urGfQp/view?usp=sharing)
+![Screenshot](screenshot.webp)
+Applications about learning basic English vocabulary. The main feature of this app is the illustration of vocabulary and text-to-speech.
 
-## Aplikasi
-[Download](https://drive.google.com/file/d/1L8Ty4gnmFxeJMlDolV4rXpXcNGJ4FaWE/view?usp=sharing)
+### JSON Firestore Structure
 
-## Desain
-[Figma](https://www.figma.com/file/TEcdLQAqZCdNi1pzbq4tKi/Kosaku?node-id=0%3A1)
-
-## Setup
-```sh
-yarn upgrade
-yarn install
+```JSON
+{
+  "Dictionary": [
+    {
+      "id": "",
+      "data": {
+        "image": "",
+        "mainCategory": "noun",
+        "otherCategory": "",
+        "wordEn": "",
+        "wordId": "",
+      },
+    },
+  ],
+  "Questions": [
+    {
+      "id": "",
+      "data": {
+        "correctOption": 0,
+        "image": "",
+        "language": "",
+        "level": 0,
+        "mainCategory": "noun",
+        "options": [],
+        "otherCategory": "",
+        "question": "",
+        "type": 0,
+      }
+    }
+  ]
+}
 ```
 
-## Assets
-[Image-Illustration by Storyset](https://storyset.com/)
 
-## Screenshot
-![Kosaku](kosaku.png)
+### Built With
+
+[<img src='react.svg' width='100' />](https://reactnative.dev/)
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
